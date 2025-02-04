@@ -2,3 +2,32 @@
     margin: auto;
     margin-left: 0%;
 }
+div.squares {
+    display: flex;
+    justify-content: center;
+    column-gap: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+
+}
+div.cards {
+    justify-content: center;
+    display: grid;
+    row-gap: 20px;
+}
+div.text {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+}
+div.d-grid.gap-2.d-md-block {
+    padding-left: 15px;
+    padding-bottom: 10px;
+}
+div.dropdown {
+    padding-left: 10px;
+}
+.col img {
+    height: 90%;
+    width: 90%;
+}
